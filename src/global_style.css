@@ -1,0 +1,8 @@
+html,
+body {
+  background: grey;
+}
+
+img{
+  max-width: 200px;
+}
